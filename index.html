@@ -1,17 +1,21 @@
-<!-- 見えない部分 -->
 <html>
 <head>
 
-<script src="./main.js">
-</script>
+<link rel="stylesheet" type="text/css" href="./style.css">
+<script src="./main.js"></script>
 
 </head>
-<!-- ↓ここから見える部分↓ -->
+
 <body>
 
-<center>
-<h1 id="start" class="text">何かキーを押してスタートします。</h1>
-</center>
+<h2 id="changeLanguageText" class="text">日本語モードです</h2>
+<input id="changeLanguage" type="button" value="日本語" onclick="changeLanguageCode(0)">
+<input id="changeLanguage" type="button" value="英語" onclick="changeLanguageCode(1)">
+
+<div class="inputArea">
+  <h1 id="start" class="text">SPACEキーを押してスタートします。</h1>
+  <h2 id="romaji" class="text"></h2>
+</div>
 
 </body>
 </html>

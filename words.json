@@ -1,3 +1,10 @@
 {
-  "words":["apple","banana","melon","mango","star","blue","orange"]
+  "English":{
+    "_": ["apple","banana","melon","mango","star","blue","orange"],
+    "romaji": ["apple","banana","melon","mango","star","blue","orange"]
+  },
+  "Japanese":{
+    "_": ["りんご", "ばなな", "メロン", "マンゴー", "ほし", "青", "オレンジ"],
+    "romaji": ["ringo", "banana", "meron", "mango-", "hosi", "ao", "orengi"]
+  }
 }

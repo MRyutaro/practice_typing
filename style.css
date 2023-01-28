@@ -1,0 +1,17 @@
+body{
+  width:100%; /*ページ全体の幅は100%と指定する*/	
+  text-align:center; /*ページ全体を中央揃えにする*/
+  margin-top: 100px;
+}
+
+#changeLanguage{
+  width: 10em;
+  height:3em;
+}
+
+.inputArea{
+  width: 80%;
+  margin: 100 auto;
+  padding: 10 0;
+  background-color: dimgray;
+}
