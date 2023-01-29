@@ -13,8 +13,26 @@
 <input id="changeLanguage" type="button" value="英語" onclick="changeLanguageCode(1)">
 
 <div class="inputArea">
-  <h1 id="start" class="text">SPACEキーを押してスタートします。</h1>
+  <h1 id="start" class="text">SPACEキーを押してスタートします</h1>
   <h2 id="romaji" class="text"></h2>
+</div>
+
+<div class="score">
+  <h2>スコア</h2>
+  <table>
+    <tr>
+      <td>タイプした数</td>
+      <td id="inputed_Character_Total_Num"></td>
+    </tr>
+    <tr>
+      <td>正解した数</td>
+      <td id="correctly_Inputed_Character_Total_Num"></td>
+    </tr>
+    <tr>
+      <td>タイピング正解率</td>
+      <td id="correctly_Input_Rate"></td>
+    </tr>
+  </table>
 </div>
 
 </body>
