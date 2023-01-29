@@ -15,3 +15,20 @@ body{
   padding: 10 0;
   background-color: dimgray;
 }
+
+.score{
+  width: 80%;
+  margin: 100 auto;
+  padding: 10 0;
+  background-color: burlywood;
+}
+
+table{
+  width: 80%;
+  margin: 0 auto;
+}
+
+tr{
+  width: 10em;
+  height:3em;
+}
