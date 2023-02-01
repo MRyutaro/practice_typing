@@ -1,15 +1,7 @@
 {
-  "English":[
-    {"_": "apple", "romaji": "apple"},
-    {"_": "banana", "romaji": "banana"},
-    {"_": "melon", "romaji": "melon"},
-    {"_": "mango", "romaji": "mango"},
-    {"_": "star", "romaji": "star"},
-    {"_": "blue", "romaji": "blue"},
-    {"_": "orange", "romaji": "orange"}
-  ],
+  "English":["apple","banana","melon","mango", "star", "blue","orange"],
   "Japanese":[
-    {"_": "りんご", "romaji": "ringo"},
+    {"_": "りん ご", "romaji": "rin go"},
     {"_": "ばなな", "romaji": "banana"},
     {"_": "メロン", "romaji": "meron"},
     {"_": "マンゴー", "romaji": "mango-"},
