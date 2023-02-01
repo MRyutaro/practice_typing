@@ -1,12 +1,373 @@
 {
-  "English":["apple","banana","melon","mango", "star", "blue","orange"],
-  "Japanese":[
-    {"_": "りんご", "romaji": "ringo"},
-    {"_": "ばなな", "romaji": "banana"},
-    {"_": "メロン", "romaji": "meron"},
-    {"_": "マンゴー", "romaji": "mango-"},
-    {"_": "ほし", "romaji": "hosi"},
-    {"_": "青", "romaji": "ao"},
-    {"_": "オレンジ", "romaji": "orenji"}
+  "English": [
+    "apple",
+    "banana",
+    "melon",
+    "mango",
+    "star",
+    "blue",
+    "orange"
+  ],
+  "Japanese": [
+    {
+      "_": "新人君に身に着けて欲しいマインドや習慣",
+      "romaji": "shinjinkunniminitsuketehoshiimaindoyashuukan"
+    },
+    {
+      "_": "【React】「困難は分割せよ」―― 複雑な画面は小さな機能に分けて実装しよう。",
+      "romaji": "【react】「konnanhabunkatsuseyo」―― fukuzatsunagamenhachiisanakinouniwaketejissoushiyou。"
+    },
+    {
+      "_": " ChatGPTは本当にプログラミングができるのか　自分の本の練習問題で実験した",
+      "romaji": " chatgpthahontounipuroguramingugadekirunoka　jibunnohonnorenshuumondaidejikkenshita"
+    },
+    {
+      "_": "コーディング時間を節約できる JavaScript１行コード２０点",
+      "romaji": "koodingujikanwosetsuyakudekiru javascript１gyoukoodo２０ten"
+    },
+    {
+      "_": "BERTで自殺ツイートを検出する試み　～①データセット作成編～",
+      "romaji": "bertdejisatsutsuiitowokenshutsusurukokoromi　～①deetasettosakuseihen～"
+    },
+    {
+      "_": "【Java勉強法】Java未経験からJava Silver取得",
+      "romaji": "【javabenkyouhou】javamikeikenkarajava silvershutoku"
+    },
+    {
+      "_": "高校でのAWS開発・運用日記~文化祭＆NYGstreaming編~",
+      "romaji": "koukoudenoawskaihatsu.unyounikki~bunkasai＆nygstreaminghen~"
+    },
+    {
+      "_": "数弱の弱弱高校生が50回かけて入茶した話",
+      "romaji": "kazujakunojakujakukoukouseiga50kaikaketenyuuchashitahanashi"
+    },
+    {
+      "_": "AR.jsのロケーションベースで方位が取れない？",
+      "romaji": "ar.jsnorokeeshonbeesudehouigatorenai？"
+    },
+    {
+      "_": "【MySQLハンズオン】スロークエリを見つけて改善してみる超入門",
+      "romaji": "【mysqlhanzuon】surookueriwomitsuketekaizenshitemiruchounyuumon"
+    },
+    {
+      "_": "JavaScriptのsort関数で日本語を50音順に並べたい",
+      "romaji": "javascriptnosortkansuudenihongowo50onjunninarabetai"
+    },
+    {
+      "_": "【若手向け】1on1ミーティングで大事な5つのポイント",
+      "romaji": "【wakatemuke】1on1miiteingudedaijina5tsunopointo"
+    },
+    {
+      "_": "MusicLMができるまで",
+      "romaji": "musiclmgadekirumade"
+    },
+    {
+      "_": "【レビューで指摘されがちシリーズ】old より previous のほうが一つ前の情報だと分かりやすい",
+      "romaji": "【rebyuudeshitekisaregachishiriizu】old yori previous nohougahitotsumaenojouhoudatowakariyasui"
+    },
+    {
+      "_": "Livebook 0.8.1 でカメラ撮影が簡単にできる",
+      "romaji": "livebook 0.8.1 dekamerasatsueigakantannidekiru"
+    },
+    {
+      "_": "【コマンドライン | Elixir 】コマンドラインからパイプ処理をする",
+      "romaji": "【komandorain | elixir 】komandorainkarapaipushoriwosuru"
+    },
+    {
+      "_": "【Generator】Laravel の LazyCollection を作ってみよう",
+      "romaji": "【generator】laravel no lazycollection wotsukutsutemiyou"
+    },
+    {
+      "_": "コンポーザブルのテストを爆速にする方法",
+      "romaji": "konpoozaburunotesutowobakusokunisuruhouhou"
+    },
+    {
+      "_": "【小ネタ】GitLabで削除できないリリースが残った場合の対処法",
+      "romaji": "【shouneta】gitlabdesakujodekinaiririisuganokotsutabaainotaishohou"
+    },
+    {
+      "_": "【PHP8.3】PHPの乱数がますます改善される",
+      "romaji": "【php8.3】phpnoransuugamasumasukaizensareru"
+    },
+    {
+      "_": "SvelteKit + Azure Blob Storage でファイルアップロード",
+      "romaji": "sveltekit + azure blob storage defairuappuroodo"
+    },
+    {
+      "_": "HaskellでLLVMを試してみる",
+      "romaji": "haskelldellvmwotameshitemiru"
+    },
+    {
+      "_": "Elixir Image （Vix, libvips）で簡単画像処理",
+      "romaji": "elixir image （vix, libvips）dekantangazoushori"
+    },
+    {
+      "_": "同じ項目のカウントと、同じ項目の最初と最後のデータをとる",
+      "romaji": "onajikoumokunokauntoto、onajikoumokunosaishotosaigonodeetawotoru"
+    },
+    {
+      "_": "中野区の賃貸物件の価格予測に挑戦してみた",
+      "romaji": "nakanokunochintaibukkennokakakuyosokunichousenshitemita"
+    },
+    {
+      "_": "シリコンバレーの注目スタートアップがビジネスの成長のために採用した「スマート・トライアル」を紹介します",
+      "romaji": "shirikonbareenochuumokusutaatoappugabijinesunoseichounotamenisaiyoushita「sumaato.toraiaru」woshoukaishimasu"
+    },
+    {
+      "_": "【初学者向け】TypeScript/Next.jsにStorybookなど開発環境を構築する時や開発時に出会った「なんで？」「これなに？」のまとめ",
+      "romaji": "【shogakushamuke】typescript/next.jsnistorybooknadokaihatsukankyouwokouchikusurutokiyakaihatsujinideatsuta「nande？」「korenani？」nomatome"
+    },
+    {
+      "_": "Databricks認定データエンジニアアソシエイト公式練習問題を翻訳&解説してみた",
+      "romaji": "databricksninteideetaenjiniaasoshieitokoushikirenshuumondaiwohonyaku&kaisetsushitemita"
+    },
+    {
+      "_": "【備忘録】DBeaverでDBをdumpする2つの方法",
+      "romaji": "【bibouroku】dbeaverdedbwodumpsuru2tsunohouhou"
+    },
+    {
+      "_": "AndroidのWebViewで、画面回転した後にフォーカスを当ててもソフトウェアキーボードが表示されない不具合に対する回避策",
+      "romaji": "androidnowebviewde、gamenkaitenshitanochinifookasuwoatetemosofutoueakiiboodogahyoujisarenaifuguainitaisurukaihisaku"
+    },
+    {
+      "_": "新人君に身に着けて欲しいマインドや習慣",
+      "romaji": "shinjinkunniminitsuketehoshiimaindoyashuukan"
+    },
+    {
+      "_": "【React】「困難は分割せよ」―― 複雑な画面は小さな機能に分けて実装しよう。",
+      "romaji": "【react】「konnanhabunkatsuseyo」―― fukuzatsunagamenhachiisanakinouniwaketejissoushiyou。"
+    },
+    {
+      "_": " ChatGPTは本当にプログラミングができるのか　自分の本の練習問題で実験した",
+      "romaji": " chatgpthahontounipuroguramingugadekirunoka　jibunnohonnorenshuumondaidejikkenshita"
+    },
+    {
+      "_": "コーディング時間を節約できる JavaScript１行コード２０点",
+      "romaji": "koodingujikanwosetsuyakudekiru javascript１gyoukoodo２０ten"
+    },
+    {
+      "_": "BERTで自殺ツイートを検出する試み　～①データセット作成編～",
+      "romaji": "bertdejisatsutsuiitowokenshutsusurukokoromi　～①deetasettosakuseihen～"
+    },
+    {
+      "_": "【Java勉強法】Java未経験からJava Silver取得",
+      "romaji": "【javabenkyouhou】javamikeikenkarajava silvershutoku"
+    },
+    {
+      "_": "高校でのAWS開発・運用日記~文化祭＆NYGstreaming編~",
+      "romaji": "koukoudenoawskaihatsu.unyounikki~bunkasai＆nygstreaminghen~"
+    },
+    {
+      "_": "数弱の弱弱高校生が50回かけて入茶した話",
+      "romaji": "kazujakunojakujakukoukouseiga50kaikaketenyuuchashitahanashi"
+    },
+    {
+      "_": "AR.jsのロケーションベースで方位が取れない？",
+      "romaji": "ar.jsnorokeeshonbeesudehouigatorenai？"
+    },
+    {
+      "_": "【MySQLハンズオン】スロークエリを見つけて改善してみる超入門",
+      "romaji": "【mysqlhanzuon】surookueriwomitsuketekaizenshitemiruchounyuumon"
+    },
+    {
+      "_": "JavaScriptのsort関数で日本語を50音順に並べたい",
+      "romaji": "javascriptnosortkansuudenihongowo50onjunninarabetai"
+    },
+    {
+      "_": "【若手向け】1on1ミーティングで大事な5つのポイント",
+      "romaji": "【wakatemuke】1on1miiteingudedaijina5tsunopointo"
+    },
+    {
+      "_": "MusicLMができるまで",
+      "romaji": "musiclmgadekirumade"
+    },
+    {
+      "_": "【レビューで指摘されがちシリーズ】old より previous のほうが一つ前の情報だと分かりやすい",
+      "romaji": "【rebyuudeshitekisaregachishiriizu】old yori previous nohougahitotsumaenojouhoudatowakariyasui"
+    },
+    {
+      "_": "Livebook 0.8.1 でカメラ撮影が簡単にできる",
+      "romaji": "livebook 0.8.1 dekamerasatsueigakantannidekiru"
+    },
+    {
+      "_": "【コマンドライン | Elixir 】コマンドラインからパイプ処理をする",
+      "romaji": "【komandorain | elixir 】komandorainkarapaipushoriwosuru"
+    },
+    {
+      "_": "【Generator】Laravel の LazyCollection を作ってみよう",
+      "romaji": "【generator】laravel no lazycollection wotsukutsutemiyou"
+    },
+    {
+      "_": "コンポーザブルのテストを爆速にする方法",
+      "romaji": "konpoozaburunotesutowobakusokunisuruhouhou"
+    },
+    {
+      "_": "【小ネタ】GitLabで削除できないリリースが残った場合の対処法",
+      "romaji": "【shouneta】gitlabdesakujodekinaiririisuganokotsutabaainotaishohou"
+    },
+    {
+      "_": "【PHP8.3】PHPの乱数がますます改善される",
+      "romaji": "【php8.3】phpnoransuugamasumasukaizensareru"
+    },
+    {
+      "_": "SvelteKit + Azure Blob Storage でファイルアップロード",
+      "romaji": "sveltekit + azure blob storage defairuappuroodo"
+    },
+    {
+      "_": "HaskellでLLVMを試してみる",
+      "romaji": "haskelldellvmwotameshitemiru"
+    },
+    {
+      "_": "Elixir Image （Vix, libvips）で簡単画像処理",
+      "romaji": "elixir image （vix, libvips）dekantangazoushori"
+    },
+    {
+      "_": "同じ項目のカウントと、同じ項目の最初と最後のデータをとる",
+      "romaji": "onajikoumokunokauntoto、onajikoumokunosaishotosaigonodeetawotoru"
+    },
+    {
+      "_": "中野区の賃貸物件の価格予測に挑戦してみた",
+      "romaji": "nakanokunochintaibukkennokakakuyosokunichousenshitemita"
+    },
+    {
+      "_": "シリコンバレーの注目スタートアップがビジネスの成長のために採用した「スマート・トライアル」を紹介します",
+      "romaji": "shirikonbareenochuumokusutaatoappugabijinesunoseichounotamenisaiyoushita「sumaato.toraiaru」woshoukaishimasu"
+    },
+    {
+      "_": "【初学者向け】TypeScript/Next.jsにStorybookなど開発環境を構築する時や開発時に出会った「なんで？」「これなに？」のまとめ",
+      "romaji": "【shogakushamuke】typescript/next.jsnistorybooknadokaihatsukankyouwokouchikusurutokiyakaihatsujinideatsuta「nande？」「korenani？」nomatome"
+    },
+    {
+      "_": "Databricks認定データエンジニアアソシエイト公式練習問題を翻訳&解説してみた",
+      "romaji": "databricksninteideetaenjiniaasoshieitokoushikirenshuumondaiwohonyaku&kaisetsushitemita"
+    },
+    {
+      "_": "【備忘録】DBeaverでDBをdumpする2つの方法",
+      "romaji": "【bibouroku】dbeaverdedbwodumpsuru2tsunohouhou"
+    },
+    {
+      "_": "AndroidのWebViewで、画面回転した後にフォーカスを当ててもソフトウェアキーボードが表示されない不具合に対する回避策",
+      "romaji": "androidnowebviewde、gamenkaitenshitanochinifookasuwoatetemosofutoueakiiboodogahyoujisarenaifuguainitaisurukaihisaku"
+    },
+    {
+      "_": "新人君に身に着けて欲しいマインドや習慣",
+      "romaji": "shinjinkunniminitsuketehoshiimaindoyashuukan"
+    },
+    {
+      "_": "【React】「困難は分割せよ」―― 複雑な画面は小さな機能に分けて実装しよう。",
+      "romaji": "【react】「konnanhabunkatsuseyo」―― fukuzatsunagamenhachiisanakinouniwaketejissoushiyou。"
+    },
+    {
+      "_": " ChatGPTは本当にプログラミングができるのか　自分の本の練習問題で実験した",
+      "romaji": " chatgpthahontounipuroguramingugadekirunoka　jibunnohonnorenshuumondaidejikkenshita"
+    },
+    {
+      "_": "コーディング時間を節約できる JavaScript１行コード２０点",
+      "romaji": "koodingujikanwosetsuyakudekiru javascript１gyoukoodo２０ten"
+    },
+    {
+      "_": "BERTで自殺ツイートを検出する試み　～①データセット作成編～",
+      "romaji": "bertdejisatsutsuiitowokenshutsusurukokoromi　～①deetasettosakuseihen～"
+    },
+    {
+      "_": "【Java勉強法】Java未経験からJava Silver取得",
+      "romaji": "【javabenkyouhou】javamikeikenkarajava silvershutoku"
+    },
+    {
+      "_": "高校でのAWS開発・運用日記~文化祭＆NYGstreaming編~",
+      "romaji": "koukoudenoawskaihatsu.unyounikki~bunkasai＆nygstreaminghen~"
+    },
+    {
+      "_": "数弱の弱弱高校生が50回かけて入茶した話",
+      "romaji": "kazujakunojakujakukoukouseiga50kaikaketenyuuchashitahanashi"
+    },
+    {
+      "_": "AR.jsのロケーションベースで方位が取れない？",
+      "romaji": "ar.jsnorokeeshonbeesudehouigatorenai？"
+    },
+    {
+      "_": "【MySQLハンズオン】スロークエリを見つけて改善してみる超入門",
+      "romaji": "【mysqlhanzuon】surookueriwomitsuketekaizenshitemiruchounyuumon"
+    },
+    {
+      "_": "JavaScriptのsort関数で日本語を50音順に並べたい",
+      "romaji": "javascriptnosortkansuudenihongowo50onjunninarabetai"
+    },
+    {
+      "_": "【若手向け】1on1ミーティングで大事な5つのポイント",
+      "romaji": "【wakatemuke】1on1miiteingudedaijina5tsunopointo"
+    },
+    {
+      "_": "MusicLMができるまで",
+      "romaji": "musiclmgadekirumade"
+    },
+    {
+      "_": "【レビューで指摘されがちシリーズ】old より previous のほうが一つ前の情報だと分かりやすい",
+      "romaji": "【rebyuudeshitekisaregachishiriizu】old yori previous nohougahitotsumaenojouhoudatowakariyasui"
+    },
+    {
+      "_": "Livebook 0.8.1 でカメラ撮影が簡単にできる",
+      "romaji": "livebook 0.8.1 dekamerasatsueigakantannidekiru"
+    },
+    {
+      "_": "【コマンドライン | Elixir 】コマンドラインからパイプ処理をする",
+      "romaji": "【komandorain | elixir 】komandorainkarapaipushoriwosuru"
+    },
+    {
+      "_": "【Generator】Laravel の LazyCollection を作ってみよう",
+      "romaji": "【generator】laravel no lazycollection wotsukutsutemiyou"
+    },
+    {
+      "_": "コンポーザブルのテストを爆速にする方法",
+      "romaji": "konpoozaburunotesutowobakusokunisuruhouhou"
+    },
+    {
+      "_": "【小ネタ】GitLabで削除できないリリースが残った場合の対処法",
+      "romaji": "【shouneta】gitlabdesakujodekinaiririisuganokotsutabaainotaishohou"
+    },
+    {
+      "_": "【PHP8.3】PHPの乱数がますます改善される",
+      "romaji": "【php8.3】phpnoransuugamasumasukaizensareru"
+    },
+    {
+      "_": "SvelteKit + Azure Blob Storage でファイルアップロード",
+      "romaji": "sveltekit + azure blob storage defairuappuroodo"
+    },
+    {
+      "_": "HaskellでLLVMを試してみる",
+      "romaji": "haskelldellvmwotameshitemiru"
+    },
+    {
+      "_": "Elixir Image （Vix, libvips）で簡単画像処理",
+      "romaji": "elixir image （vix, libvips）dekantangazoushori"
+    },
+    {
+      "_": "同じ項目のカウントと、同じ項目の最初と最後のデータをとる",
+      "romaji": "onajikoumokunokauntoto、onajikoumokunosaishotosaigonodeetawotoru"
+    },
+    {
+      "_": "中野区の賃貸物件の価格予測に挑戦してみた",
+      "romaji": "nakanokunochintaibukkennokakakuyosokunichousenshitemita"
+    },
+    {
+      "_": "シリコンバレーの注目スタートアップがビジネスの成長のために採用した「スマート・トライアル」を紹介します",
+      "romaji": "shirikonbareenochuumokusutaatoappugabijinesunoseichounotamenisaiyoushita「sumaato.toraiaru」woshoukaishimasu"
+    },
+    {
+      "_": "【初学者向け】TypeScript/Next.jsにStorybookなど開発環境を構築する時や開発時に出会った「なんで？」「これなに？」のまとめ",
+      "romaji": "【shogakushamuke】typescript/next.jsnistorybooknadokaihatsukankyouwokouchikusurutokiyakaihatsujinideatsuta「nande？」「korenani？」nomatome"
+    },
+    {
+      "_": "Databricks認定データエンジニアアソシエイト公式練習問題を翻訳&解説してみた",
+      "romaji": "databricksninteideetaenjiniaasoshieitokoushikirenshuumondaiwohonyaku&kaisetsushitemita"
+    },
+    {
+      "_": "【備忘録】DBeaverでDBをdumpする2つの方法",
+      "romaji": "【bibouroku】dbeaverdedbwodumpsuru2tsunohouhou"
+    },
+    {
+      "_": "AndroidのWebViewで、画面回転した後にフォーカスを当ててもソフトウェアキーボードが表示されない不具合に対する回避策",
+      "romaji": "androidnowebviewde、gamenkaitenshitanochinifookasuwoatetemosofutoueakiiboodogahyoujisarenaifuguainitaisurukaihisaku"
+    }
   ]
 }

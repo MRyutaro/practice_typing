@@ -73,7 +73,7 @@ function push_keydown(event){
   let key_code = event.key;
   console.log("文字：", chars_for_display, "、文字番号：", char_check_flag, "、文字長さ：", word_length);
 
-	if (key_code == " "){
+	if (key_code == "ENTER"){
     console.log("初期化");
     inputed_char_total_num = 0;
     correctly_inputed_char_total_num = 0;
