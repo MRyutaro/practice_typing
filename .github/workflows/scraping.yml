@@ -1,0 +1,61 @@
+name: Scraping
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * *'
+    - cron: '0 21 * * *'
+
+env:
+  BASE_BRANCH_NAME: develop
+  LOCAL_BRANCH_NAME: feature/auto_scraping
+
+jobs:
+  add-new-file:
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      issues: write
+      packages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Setup git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          cd $GITHUB_WORKSPACE
+          git fetch
+      - name: Clean up
+        # The reason why we don't use origin/gh-pages and just merge to it is, to prevent git complains gh-pages and the base branch have unrelated histories and conflicts on merge (it should never happen. idk why this happens)
+        continue-on-error: true
+        run: |
+          git push --delete origin $LOCAL_BRANCH_NAME
+      - name: Checkout
+        run: |
+          git fetch
+          git checkout $BASE_BRANCH_NAME
+          git pull
+          git checkout -b $LOCAL_BRANCH_NAME
+      - name: Add new file
+        run: python scraping.py
+      - name: Check branch
+        run: git branch
+      - name: Commit
+        run: |
+          git add .
+          git commit -m 'Generated automatically'
+          git push origin $LOCAL_BRANCH_NAME
+      - name: Teardown when the workflow failed
+        if: failure() && steps.build_step.outcome == 'failure'
+        run: |
+          git stash -u
