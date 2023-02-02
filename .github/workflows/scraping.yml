@@ -7,7 +7,7 @@ on:
     - cron: '0 21 * * *'
 
 env:
-  BASE_BRANCH_NAME: develop
+  BASE_BRANCH_NAME: main
 
 jobs:
   add-new-file:
