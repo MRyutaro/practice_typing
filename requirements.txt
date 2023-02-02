@@ -1,2 +1,3 @@
 pykakasi
 bs4
+requests
