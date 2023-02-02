@@ -38,7 +38,6 @@ jobs:
         run: git branch
       - name: Checkout
         run: |
-          git checkout -b $BASE_BRANCH_NAME
           git pull origin $BASE_BRANCH_NAME
       - name: Pip install
         run: pip install -r requirements.txt
