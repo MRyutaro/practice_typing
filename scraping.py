@@ -17,7 +17,7 @@ def get_titles_from_qiita():
 
     for article in articles:
         title = article.find("h2", class_="style-skov52").get_text().replace(
-            "　", "").replace("（", "").replace("）", "").replace("＆", "").replace("ー", "").replace("】", "").replace("【", "").replace("(", "").replace(")", "").replace("?", "").replace("!", "")
+            "　", "").replace("（", "").replace("）", "").replace("＆", "").replace("ー", "").replace("】", "").replace("【", "").replace("(", "").replace(")", "").replace("?", "").replace("!", "").replace("、", "").replace("。", "")
         title = unicodedata.normalize('NFKC', title)
         titles.append(title)
 
