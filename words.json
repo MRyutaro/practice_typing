@@ -248,6 +248,126 @@
     {
       "_": "TypeScriptを使うと、emotionを使うためにbabel pluginがいらなくなる理由を調べてみた",
       "romaji": "typescriptwotsukauto、emotionwotsukautamenibabel plugingairanakunaruriyuuwoshirabetemita"
+    },
+    {
+      "_": "React「困難は分割せよ」―― 複雑な画面は小さな機能に分けて実装しよう。",
+      "romaji": "react「konnanhabunkatsuseyo」―― fukuzatsunagamenhachiisanakinouniwaketejissoushiyou。"
+    },
+    {
+      "_": " ChatGPTは本当にプログラミングができるのか自分の本の練習問題で実験した",
+      "romaji": " chatgpthahontounipuroguramingugadekirunokajibunnohonnorenshuumondaidejikkenshita"
+    },
+    {
+      "_": "コディング時間を節約できる JavaScript1行コド20点",
+      "romaji": "kodingujikanwosetsuyakudekiru javascript1gyoukodo20ten"
+    },
+    {
+      "_": "LINE Botでアレルギ児とその家族を支えたい〜プログラミング初心者の小児科医が開発してみた",
+      "romaji": "line botdearerugijitosonokazokuwosasaetai〜puroguramingushoshinshanoshounikaigakaihatsushitemita"
+    },
+    {
+      "_": "BERTで自殺ツイトを検出する試み~1デタセット作成編~",
+      "romaji": "bertdejisatsutsuitowokenshutsusurukokoromi~1detasettosakuseihen~"
+    },
+    {
+      "_": "高校でのAWS開発・運用日記~文化祭NYGstreaming編~",
+      "romaji": "koukoudenoawskaihatsu.unyounikki~bunkasainygstreaminghen~"
+    },
+    {
+      "_": "MySQLハンズオンスロクエリを見つけて改善してみる超入門",
+      "romaji": "mysqlhanzuonsurokueriwomitsuketekaizenshitemiruchounyuumon"
+    },
+    {
+      "_": "GeneratorLaravel の LazyCollection を作ってみよう",
+      "romaji": "generatorlaravel no lazycollection wotsukutsutemiyou"
+    },
+    {
+      "_": "PHP8.3PHPの乱数がますます改善される",
+      "romaji": "php8.3phpnoransuugamasumasukaizensareru"
+    },
+    {
+      "_": "レビュで指摘されがちシリズold より previous のほうが一つ前の情報だと分かりやすい",
+      "romaji": "rebyudeshitekisaregachishirizuold yori previous nohougahitotsumaenojouhoudatowakariyasui"
+    },
+    {
+      "_": "[IDMC]Google Big Queryへデタを投入する",
+      "romaji": "[idmc]google big queryhedetawotounyuusuru"
+    },
+    {
+      "_": "Oracle CloudでもRHELが正式に使えるようになったよ",
+      "romaji": "oracle clouddemorhelgaseishikinitsukaeruyouninattayo"
+    },
+    {
+      "_": "SwiftUIを使ってアイコンを爆速で作成する",
+      "romaji": "swiftuiwotsukatteaikonwobakusokudesakuseisuru"
+    },
+    {
+      "_": "コンポザブルのテストを爆速にする方法",
+      "romaji": "konpozaburunotesutowobakusokunisuruhouhou"
+    },
+    {
+      "_": "iPad Airであそぶ〜Flowを使ったら速くなるか?〜",
+      "romaji": "ipad airdeasobu〜flowwotsukattarahayakunaruka?〜"
+    },
+    {
+      "_": "OSS-DB Silverの学習メモその1[一般知識]",
+      "romaji": "oss-db silvernogakushuumemosono1[ippanchishiki]"
+    },
+    {
+      "_": "数弱の弱弱高校生が50回かけて入茶した話",
+      "romaji": "kazujakunojakujakukoukouseiga50kaikaketenyuuchashitahanashi"
+    },
+    {
+      "_": "Ryzen 9 7950XおよびApple M1 Maxの内積計算速度について",
+      "romaji": "ryzen 9 7950xoyobiapple m1 maxnonaisekikeisansokudonitsuite"
+    },
+    {
+      "_": "Python競プロ用様々な入力の受け取り方まとめ",
+      "romaji": "pythonkyoupuroyousamazamananyuuryokunouketorikatamatome"
+    },
+    {
+      "_": "JestとVue.jsでsetIntervalやsetTimeoutのテストを書く",
+      "romaji": "jesttovue.jsdesetintervalyasettimeoutnotesutowokaku"
+    },
+    {
+      "_": "ElixirでGitHubに公開されているがHexには公開されていないパッケジを読み込みたい",
+      "romaji": "elixirdegithubnikoukaisareteirugahexnihakoukaisareteinaipakkejiwoyomikomitai"
+    },
+    {
+      "_": "Microsoft の OpenHack Container に参加してきた",
+      "romaji": "microsoft no openhack container nisankashitekita"
+    },
+    {
+      "_": "PHP 8: 新機能を活用してより現代的な開発体験を手に入れよう",
+      "romaji": "php 8: shinkinouwokatsuyoushiteyorigendaitekinakaihatsutaikenwoteniireyou"
+    },
+    {
+      "_": "AsyncStreamで複数のConsumerに値をブロドキャストする",
+      "romaji": "asyncstreamdefukusuunoconsumerniataiwoburodokyasutosuru"
+    },
+    {
+      "_": "Unity知っていればよかった神技術!! - WebAR編 -",
+      "romaji": "unityshitteirebayokattakamiwazajutsu!! - webarhen -"
+    },
+    {
+      "_": "Framer Motionを使ってReactでアニメションを快適に作成する",
+      "romaji": "framer motionwotsukattereactdeanimeshonwokaitekinisakuseisuru"
+    },
+    {
+      "_": "Watson Speech to Text でカスタムモデルを使う",
+      "romaji": "watson speech to text dekasutamumoderuwotsukau"
+    },
+    {
+      "_": "console.logだけではないconsoleの使い方",
+      "romaji": "console.logdakedehanaiconsolenotsukaikata"
+    },
+    {
+      "_": "FSx for NetApp ONTAPのシングルAZ構成もVMware Cloud on AWSのNFSデタストアとして利用できるようになった!",
+      "romaji": "fsx for netapp ontapnoshinguruazkouseimovmware cloud on awsnonfsdetasutoatoshiteriyoudekiruyouninatta!"
+    },
+    {
+      "_": "TypeScriptを使うと、emotionを使うためにbabel pluginがいらなくなる理由を調べてみた",
+      "romaji": "typescriptwotsukauto、emotionwotsukautamenibabel plugingairanakunaruriyuuwoshirabetemita"
     }
   ]
 }
