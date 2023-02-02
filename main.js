@@ -31,7 +31,6 @@ function load_json(json, language_code){
   else if(language_code == 1){
     words = json.English;
   };
-  make_new_word(words, language_code);
 };
 
 function make_new_word(words, language_code){
@@ -71,9 +70,10 @@ function change_language_code(input_language_code){
 function push_keydown(event){
   inputed_char_total_num++;
   let key_code = event.key;
+  console.log("keycode", key_code);
   console.log("文字：", chars_for_display, "、文字番号：", char_check_flag, "、文字長さ：", word_length);
 
-	if (key_code == "ENTER"){
+	if (key_code == "Enter"){
     console.log("初期化");
     inputed_char_total_num = 0;
     correctly_inputed_char_total_num = 0;

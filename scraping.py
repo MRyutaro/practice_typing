@@ -4,6 +4,7 @@ import pykakasi
 import json
 from pprint import pprint
 import os
+import unicodedata
 
 
 def get_titles_from_qiita():
@@ -15,7 +16,9 @@ def get_titles_from_qiita():
     titles = list()
 
     for article in articles:
-        title = article.find("h2", class_="style-skov52").get_text()
+        title = article.find("h2", class_="style-skov52").get_text().replace(
+            "　", "").replace("（", "").replace("）", "").replace("＆", "").replace("ー", "").replace("】", "").replace("【", "").replace("(", "").replace(")", "").replace("?", "").replace("!", "")
+        title = unicodedata.normalize('NFKC', title)
         titles.append(title)
 
     # print(titles)
