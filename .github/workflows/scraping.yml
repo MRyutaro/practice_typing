@@ -7,7 +7,7 @@ on:
     - cron: '0 21 * * *'
 
 env:
-  BASE_BRANCH_NAME: faeture/auto_scraping
+  BASE_BRANCH_NAME: feature/auto_scraping
 
 jobs:
   add-new-file:
