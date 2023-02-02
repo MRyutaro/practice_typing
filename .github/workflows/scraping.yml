@@ -34,17 +34,17 @@ jobs:
           git config user.email "<>"
           cd $GITHUB_WORKSPACE
           git fetch
+      - name: Check branch
+        run: git branch
       - name: Checkout
         run: |
           git fetch
           git checkout -b $BASE_BRANCH_NAME
-          git pull
+          git pull origin $BASE_BRANCH_NAME
       - name: Pip install
         run: pip install -r requirements.txt
       - name: Add new file
         run: python scraping.py
-      - name: Check branch
-        run: git branch
       - name: Commit
         run: |
           git add .
