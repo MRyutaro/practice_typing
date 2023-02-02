@@ -4,22 +4,29 @@ body{
   margin-top: 100px;
 }
 
-#changeLanguage{
+#change_language{
   width: 10em;
   height:3em;
 }
 
-.inputArea{
-  width: 80%;
+.input_area{
+  height: auto;
+  width: 60%;
   margin: 100 auto;
-  padding: 10 0;
+  padding: 10 100;
   background-color: dimgray;
 }
 
+.text{
+  /* overflow-wrap: normal; */
+  word-wrap: break-word;
+}
+
 .score{
-  width: 80%;
+  height: auto;
+  width: 60%;
   margin: 100 auto;
-  padding: 10 0;
+  padding: 10 100;
   background-color: burlywood;
 }
 
