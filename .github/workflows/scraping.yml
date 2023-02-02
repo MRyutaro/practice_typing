@@ -8,7 +8,7 @@ on:
 
 env:
   BASE_BRANCH_NAME: develop
-  LOCAL_BRANCH_NAME: feature/auto_scraping
+  LOCAL_BRANCH_NAME: develop
 
 jobs:
   add-new-file:
