@@ -37,7 +37,7 @@ jobs:
       - name: Checkout
         run: |
           git fetch
-          git checkout $BASE_BRANCH_NAME
+          git checkout -b $BASE_BRANCH_NAME
           git pull
       - name: Pip install
         run: pip install -r requirements.txt
