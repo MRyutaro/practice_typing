@@ -7,8 +7,7 @@ on:
     - cron: '0 21 * * *'
 
 env:
-  BASE_BRANCH_NAME: develop
-  LOCAL_BRANCH_NAME: feature/auto_scraping
+  BASE_BRANCH_NAME: main
 
 jobs:
   add-new-file:
@@ -35,26 +34,20 @@ jobs:
           git config user.email "<>"
           cd $GITHUB_WORKSPACE
           git fetch
-      - name: Clean up
-        # The reason why we don't use origin/gh-pages and just merge to it is, to prevent git complains gh-pages and the base branch have unrelated histories and conflicts on merge (it should never happen. idk why this happens)
-        continue-on-error: true
-        run: |
-          git push --delete origin $LOCAL_BRANCH_NAME
-      - name: Checkout
-        run: |
-          git fetch
-          git checkout $BASE_BRANCH_NAME
-          git pull
-          git checkout -b $LOCAL_BRANCH_NAME
-      - name: Add new file
-        run: python scraping.py
       - name: Check branch
         run: git branch
+      - name: Checkout
+        run: |
+          git pull origin $BASE_BRANCH_NAME
+      - name: Pip install
+        run: pip install -r requirements.txt
+      - name: Add new file
+        run: python scraping.py
       - name: Commit
         run: |
           git add .
           git commit -m 'Generated automatically'
-          git push origin $LOCAL_BRANCH_NAME
+          git push origin $BASE_BRANCH_NAME
       - name: Teardown when the workflow failed
         if: failure() && steps.build_step.outcome == 'failure'
         run: |

@@ -1,2 +1,0 @@
-pykakasi
-bs4
