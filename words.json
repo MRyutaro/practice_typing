@@ -848,6 +848,126 @@
     {
       "_": "Error: Could not locate device support files.への対処",
       "romaji": "error: could not locate device support files.henotaisho"
+    },
+    {
+      "_": "Kubernetesに腰を据えて入門する方向けのロドマップ",
+      "romaji": "kubernetesnikoshiwosuetenyuumonsuruhoukoukenorodomappu"
+    },
+    {
+      "_": "事前に議事録を用意し何ならそこで議論を始めてしまう手法を試している",
+      "romaji": "jizennigijirokuwoyouishinaninarasokodegironwohajimeteshimaushuhouwotameshiteiru"
+    },
+    {
+      "_": "数学的に正しい\"2.5次元\"",
+      "romaji": "suugakutekinitadashii\"2.5jigen\""
+    },
+    {
+      "_": "Nostrプロトコルdamusを触ってみた",
+      "romaji": "nostrpurotokorudamuswosawatsutemita"
+    },
+    {
+      "_": "ロボット技術者向け 速習 リ群・リ代数を使った3次元回転表現",
+      "romaji": "robottogijutsushamuke sokushuu rigun.ridaisuuwotsukatta3jigenkaitenhyougen"
+    },
+    {
+      "_": "初級pythonのclassやmoduleを考える",
+      "romaji": "shokyuupythonnoclassyamodulewokangaeru"
+    },
+    {
+      "_": "Vite+FastAPI+NGINX+Dockerの環境構築",
+      "romaji": "vite+fastapi+nginx+dockernokankyoukouchiku"
+    },
+    {
+      "_": "Webシステム開発で関わる技術のまとめ2022年に知った物",
+      "romaji": "webshisutemukaihatsudekakawarugijutsunomatome2022nennishitsutamono"
+    },
+    {
+      "_": "制約があるエンジニアこそアウトプットをしていくべき",
+      "romaji": "seiyakugaaruenjiniakosoautoputtowoshiteikubeki"
+    },
+    {
+      "_": "Python \"class\" チトドキュメント",
+      "romaji": "python \"class\" chitodokyumento"
+    },
+    {
+      "_": "piyopiyo.ex #14:Elixirでデタ分析をしてみよう!開催メモ",
+      "romaji": "piyopiyo.ex #14:elixirdedetabunsekiwoshitemiyou!kaisaimemo"
+    },
+    {
+      "_": "Pythonでほぼ日手帳形式のmarkdownメモ帳を作ろう1年分",
+      "romaji": "pythondehobonichitechoukeishikinomarkdownmemochouwotsukurou1nenbun"
+    },
+    {
+      "_": "JuliaElectron.jlを使ってカウンタアプリを作る",
+      "romaji": "juliaelectron.jlwotsukattekauntaapuriwotsukuru"
+    },
+    {
+      "_": "gccの最適化指示-Ofastは危険",
+      "romaji": "gccnosaitekikashiji-ofasthakiken"
+    },
+    {
+      "_": "Google Colaboratory 上に最新の Elixir と Livebook をインストルする",
+      "romaji": "google colaboratory uenisaishinno elixir to livebook woinsutorusuru"
+    },
+    {
+      "_": "LLVMのstd:: uniform_real_distributionが遅い件",
+      "romaji": "llvmnostd:: uniform_real_distributiongaosoiken"
+    },
+    {
+      "_": "ChatGPTでニュラルネットのコドを書かせてみたらすごかった",
+      "romaji": "chatgptdenyurarunettonokodowokakasetemitarasugokatta"
+    },
+    {
+      "_": "Elixirの文字列はUTF-8だけどRegexはUTF-8ではない",
+      "romaji": "elixirnomojiretsuhautf-8dakedoregexhautf-8dehanai"
+    },
+    {
+      "_": "オレオレLiveViewCanvasを作る",
+      "romaji": "oreoreliveviewcanvaswotsukuru"
+    },
+    {
+      "_": "ダイアログの右上に×ボタンをつけたい",
+      "romaji": "daiarogunomigiueni×botanwotsuketai"
+    },
+    {
+      "_": "React + MUI v5 でタグのようなUIを作る",
+      "romaji": "react + mui v5 detagunoyounauiwotsukuru"
+    },
+    {
+      "_": "さいごまでおよみいただきありがとうございました",
+      "romaji": "saigomadeoyomiitadakiarigatougozaimashita"
+    },
+    {
+      "_": "はじめてのQiita投稿",
+      "romaji": "hajimetenoqiitatoukou"
+    },
+    {
+      "_": "闘魂Elixir ── Advent of Code 2022 Day 9: Rope Bridge をElixirで楽しむ!",
+      "romaji": "toukonelixir ── advent of code 2022 day 9: rope bridge woelixirdetanoshimu!"
+    },
+    {
+      "_": "React Hook FormとYupで作る型安全なフォム",
+      "romaji": "react hook formtoyupdetsukurukataanzennafomu"
+    },
+    {
+      "_": "Databricksノトブックで変数エクスプロラがサポトされます",
+      "romaji": "databricksnotobukkudehensuuekusupuroragasapotosaremasu"
+    },
+    {
+      "_": "開発中のDeviseをインストルしてRails 7.0 Hotwire/Turboのテストに協力する",
+      "romaji": "kaihatsuchuunodevisewoinsutorushiterails 7.0 hotwire/turbonotesutonikyouryokusuru"
+    },
+    {
+      "_": "LoLを起動したらAutoHotkeyを終了するPowerShellスクリプト",
+      "romaji": "lolwokidoushitaraautohotkeywoshuuryousurupowershellsukuriputo"
+    },
+    {
+      "_": "CSV デタを変換して地図上にマカ表示する",
+      "romaji": "csv detawohenkanshitechizujounimakahyoujisuru"
+    },
+    {
+      "_": "簡単!WSL2でRails6Ruby3系の環境を構築してVSCodeからrails newするまでのTips♪",
+      "romaji": "kantan!wsl2derails6ruby3keinokankyouwokouchikushitevscodekararails newsurumadenotips♪"
     }
   ]
 }
