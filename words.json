@@ -1088,6 +1088,126 @@
     {
       "_": "闘魂Elixir ── Advent of Code 2022 Day 9: Rope Bridge をElixirで楽しむ!",
       "romaji": "toukonelixir ── advent of code 2022 day 9: rope bridge woelixirdetanoshimu!"
+    },
+    {
+      "_": "Nostrプロトコルdamusを触ってみた",
+      "romaji": "nostrpurotokorudamuswosawatsutemita"
+    },
+    {
+      "_": "Kubernetesに腰を据えて入門する方向けのロドマップ",
+      "romaji": "kubernetesnikoshiwosuetenyuumonsuruhoukoukenorodomappu"
+    },
+    {
+      "_": "Pythonでほぼ日手帳形式のmarkdownメモ帳を作ろう1年分",
+      "romaji": "pythondehobonichitechoukeishikinomarkdownmemochouwotsukurou1nenbun"
+    },
+    {
+      "_": "Webシステム開発で関わる技術のまとめ2022年に知った物",
+      "romaji": "webshisutemukaihatsudekakawarugijutsunomatome2022nennishitsutamono"
+    },
+    {
+      "_": "事前に議事録を用意し何ならそこで議論を始めてしまう手法を試している",
+      "romaji": "jizennigijirokuwoyouishinaninarasokodegironwohajimeteshimaushuhouwotameshiteiru"
+    },
+    {
+      "_": "gccの最適化指示-Ofastは危険",
+      "romaji": "gccnosaitekikashiji-ofasthakiken"
+    },
+    {
+      "_": "レイヤケキを使って最近アメリカで株式公開したSaaSスタトアップの成長を見える化してみた",
+      "romaji": "reiyakekiwotsukattesaikinamerikadekabushikikoukaishitasaassutatoappunoseichouwomierukashitemita"
+    },
+    {
+      "_": "Python \"class\" チトドキュメント",
+      "romaji": "python \"class\" chitodokyumento"
+    },
+    {
+      "_": "ChatGPTでニュラルネットのコドを書かせてみたらすごかった",
+      "romaji": "chatgptdenyurarunettonokodowokakasetemitarasugokatta"
+    },
+    {
+      "_": "さいごまでおよみいただきありがとうございました",
+      "romaji": "saigomadeoyomiitadakiarigatougozaimashita"
+    },
+    {
+      "_": "機械学習で歌舞伎町ライブカメラの人流を3D化してみる",
+      "romaji": "kikaigakushuudekabukichouraibukameranojinryuuwo3dkashitemiru"
+    },
+    {
+      "_": "クラッシュリティクスをSlack通知する10分で設定できるヨ",
+      "romaji": "kurasshuriteikusuwoslacktsuuchisuru10fundesetteidekiruyo"
+    },
+    {
+      "_": "はじめてのQiita投稿",
+      "romaji": "hajimetenoqiitatoukou"
+    },
+    {
+      "_": "LLVMのstd:: uniform_real_distributionが遅い件",
+      "romaji": "llvmnostd:: uniform_real_distributiongaosoiken"
+    },
+    {
+      "_": "初級pythonのclassやmoduleを考える",
+      "romaji": "shokyuupythonnoclassyamodulewokangaeru"
+    },
+    {
+      "_": "開発中のDeviseをインストルしてRails 7.0 Hotwire/Turboのテストに協力する",
+      "romaji": "kaihatsuchuunodevisewoinsutorushiterails 7.0 hotwire/turbonotesutonikyouryokusuru"
+    },
+    {
+      "_": "浅ぁいネットワク講座第4回",
+      "romaji": "senainettowakukouzadai4kai"
+    },
+    {
+      "_": "Vite+FastAPI+NGINX+Dockerの環境構築",
+      "romaji": "vite+fastapi+nginx+dockernokankyoukouchiku"
+    },
+    {
+      "_": "Elixirの文字列はUTF-8だけどRegexはUTF-8ではない",
+      "romaji": "elixirnomojiretsuhautf-8dakedoregexhautf-8dehanai"
+    },
+    {
+      "_": "Power Apps で Dataverse の選択肢列の既定値を設定する",
+      "romaji": "power apps de dataverse nosentakushitsuranokiteichiwosetteisuru"
+    },
+    {
+      "_": "自分で作ったAI同士を会話させてみた",
+      "romaji": "jibundetsukutsutaaidoushiwokaiwasasetemita"
+    },
+    {
+      "_": "Youtubeデスクトップ版もどきをElectronでWindows用",
+      "romaji": "youtubedesukutoppuhanmodokiwoelectrondewindowsyou"
+    },
+    {
+      "_": "簡単!WSL2でRails6Ruby3系の環境を構築してVSCodeからrails newするまでのTips♪",
+      "romaji": "kantan!wsl2derails6ruby3keinokankyouwokouchikushitevscodekararails newsurumadenotips♪"
+    },
+    {
+      "_": "AIが何についてのポエムを作ってるのか当てるゲム作った",
+      "romaji": "aigananinitsuitenopoemuwotsukutsuterunokaaterugemutsukutsuta"
+    },
+    {
+      "_": "ElasticBeanstalk の環境を Node.js12 から 16 にアップデトする際の躓きポイント",
+      "romaji": "elasticbeanstalk nokankyouwo node.js12 kara 16 niappudetosurusainochikipointo"
+    },
+    {
+      "_": "高校でのAWS開発・運用日記~体育祭編",
+      "romaji": "koukoudenoawskaihatsu.unyounikki~taiikusaihen"
+    },
+    {
+      "_": "CSV デタを変換して地図上にマカ表示する",
+      "romaji": "csv detawohenkanshitechizujounimakahyoujisuru"
+    },
+    {
+      "_": "年齢ごとに考えるエンジニアの始め方",
+      "romaji": "nenreigotonikangaeruenjinianohajimehou"
+    },
+    {
+      "_": "SQLを学習する前に知っておきたいデタベス",
+      "romaji": "sqlwogakushuusurumaenishitteokitaidetabesu"
+    },
+    {
+      "_": "google-java-formatすべてのファイルを一発でフォマットする方法",
+      "romaji": "google-java-formatsubetenofairuwoippatsudefomattosuruhouhou"
     }
   ]
 }
