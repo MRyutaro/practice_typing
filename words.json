@@ -1208,6 +1208,126 @@
     {
       "_": "google-java-formatすべてのファイルを一発でフォマットする方法",
       "romaji": "google-java-formatsubetenofairuwoippatsudefomattosuruhouhou"
+    },
+    {
+      "_": "Kubernetesに腰を据えて入門する方向けのロドマップ",
+      "romaji": "kubernetesnikoshiwosuetenyuumonsuruhoukoukenorodomappu"
+    },
+    {
+      "_": "Nostrプロトコルdamusを触ってみた",
+      "romaji": "nostrpurotokorudamuswosawatsutemita"
+    },
+    {
+      "_": "Pythonでほぼ日手帳形式のmarkdownメモ帳を作ろう1年分",
+      "romaji": "pythondehobonichitechoukeishikinomarkdownmemochouwotsukurou1nenbun"
+    },
+    {
+      "_": "gccの最適化指示-Ofastは危険",
+      "romaji": "gccnosaitekikashiji-ofasthakiken"
+    },
+    {
+      "_": "年齢ごとに考えるエンジニアの始め方",
+      "romaji": "nenreigotonikangaeruenjinianohajimehou"
+    },
+    {
+      "_": "機械学習で歌舞伎町ライブカメラの人流を3D化してみる",
+      "romaji": "kikaigakushuudekabukichouraibukameranojinryuuwo3dkashitemiru"
+    },
+    {
+      "_": "PostgreSQLのプライマリキはSERIALとUUIDのどっちが速いのか実験してみた",
+      "romaji": "postgresqlnopuraimarikihaserialtouuidnodotchigahayainokajikkenshitemita"
+    },
+    {
+      "_": "高校でのAWS開発・運用日記~体育祭編",
+      "romaji": "koukoudenoawskaihatsu.unyounikki~taiikusaihen"
+    },
+    {
+      "_": "レイヤケキを使って最近アメリカで株式公開したSaaSスタトアップの成長を見える化してみた",
+      "romaji": "reiyakekiwotsukattesaikinamerikadekabushikikoukaishitasaassutatoappunoseichouwomierukashitemita"
+    },
+    {
+      "_": "使いやすい管理画面を作るために考えておきたいと思ったこと",
+      "romaji": "tsukaiyasuikanrigamenwotsukurutamenikangaeteokitaitoomottakoto"
+    },
+    {
+      "_": "浅ぁいネットワク講座第4回",
+      "romaji": "senainettowakukouzadai4kai"
+    },
+    {
+      "_": "LLVMのstd:: uniform_real_distributionが遅い件",
+      "romaji": "llvmnostd:: uniform_real_distributiongaosoiken"
+    },
+    {
+      "_": "[pdf.js] 手軽にPDFファイルをHTMLに埋め込めるWebComponentを作った",
+      "romaji": "[pdf.js] tegarunipdffairuwohtmlniumekomeruwebcomponentwotsukutsuta"
+    },
+    {
+      "_": "PHP8.3 クラス定数とENUMを文字列から探せるようになる",
+      "romaji": "php8.3 kurasuteisuutoenumwomojiretsukarasagaseruyouninaru"
+    },
+    {
+      "_": "Seleniumを用いたTwitterへのログイン及び投稿",
+      "romaji": "seleniumwomochiitatwitterhenoroguinoyobitoukou"
+    },
+    {
+      "_": "AWS re:Invent 2022 ブス展示からわかるアナリティクス分野のトレンド",
+      "romaji": "aws re:invent 2022 busutenjikarawakaruanariteikusubunyanotorendo"
+    },
+    {
+      "_": "TypeScriptで戻り値がvoid型の関数を扱う場合の注意点",
+      "romaji": "typescriptdemodorichigavoidkatanokansuuwoatsukaubaainochuuiten"
+    },
+    {
+      "_": "「[cloud_firestore/permission-denied] The caller does not have permission to execute the specified operation.」エラの解決方法",
+      "romaji": "「[cloud_firestore/permission-denied] the caller does not have permission to execute the specified operation.」eranokaiketsuhouhou"
+    },
+    {
+      "_": "nagexymsharpをリリスしましたbeta版",
+      "romaji": "nagexymsharpworirisushimashitabetahan"
+    },
+    {
+      "_": "Youtubeデスクトップ版もどきをElectronでWindows用",
+      "romaji": "youtubedesukutoppuhanmodokiwoelectrondewindowsyou"
+    },
+    {
+      "_": ".NETでIBM iのDBをつついてみる",
+      "romaji": ".netdeibm inodbwotsutsuitemiru"
+    },
+    {
+      "_": "アジャイル開発について",
+      "romaji": "ajairukaihatsunitsuite"
+    },
+    {
+      "_": "自分で作ったAI同士を会話させてみた",
+      "romaji": "jibundetsukutsutaaidoushiwokaiwasasetemita"
+    },
+    {
+      "_": "React Hook FormとYupで作る型安全なフォム",
+      "romaji": "react hook formtoyupdetsukurukataanzennafomu"
+    },
+    {
+      "_": "テストにおけるリダブルとDRYの両立あるいは妥協案",
+      "romaji": "tesutoniokeruridaburutodrynoryouritsuaruihadakyouan"
+    },
+    {
+      "_": "OKEでoci-secrets-store-csi-driver-providerを使ってみよう",
+      "romaji": "okedeoci-secrets-store-csi-driver-providerwotsukattemiyou"
+    },
+    {
+      "_": "初級pythonのclassやmoduleを考える",
+      "romaji": "shokyuupythonnoclassyamodulewokangaeru"
+    },
+    {
+      "_": "AIが何についてのポエムを作ってるのか当てるゲム作った",
+      "romaji": "aigananinitsuitenopoemuwotsukutsuterunokaaterugemutsukutsuta"
+    },
+    {
+      "_": "ブロックチェンを実装してみる入門編",
+      "romaji": "burokkuchenwojissoushitemirunyuumonhen"
+    },
+    {
+      "_": "シェルスクリプトの配列を定義するには",
+      "romaji": "shierusukuriputonohairetsuwoteigisuruniha"
     }
   ]
 }
