@@ -1328,6 +1328,126 @@
     {
       "_": "シェルスクリプトの配列を定義するには",
       "romaji": "shierusukuriputonohairetsuwoteigisuruniha"
+    },
+    {
+      "_": "Kubernetesに腰を据えて入門する方向けのロドマップ",
+      "romaji": "kubernetesnikoshiwosuetenyuumonsuruhoukoukenorodomappu"
+    },
+    {
+      "_": "Nostrプロトコルdamusを触ってみた",
+      "romaji": "nostrpurotokorudamuswosawatsutemita"
+    },
+    {
+      "_": "PostgreSQLのプライマリキはSERIALとUUIDのどっちが速いのか実験してみた",
+      "romaji": "postgresqlnopuraimarikihaserialtouuidnodotchigahayainokajikkenshitemita"
+    },
+    {
+      "_": "使いやすい管理画面を作るために考えておきたいと思ったこと",
+      "romaji": "tsukaiyasuikanrigamenwotsukurutamenikangaeteokitaitoomottakoto"
+    },
+    {
+      "_": "年齢ごとに考えるエンジニアの始め方",
+      "romaji": "nenreigotonikangaeruenjinianohajimehou"
+    },
+    {
+      "_": "機械学習で歌舞伎町ライブカメラの人流を3D化してみる",
+      "romaji": "kikaigakushuudekabukichouraibukameranojinryuuwo3dkashitemiru"
+    },
+    {
+      "_": "gccの最適化指示-Ofastは危険",
+      "romaji": "gccnosaitekikashiji-ofasthakiken"
+    },
+    {
+      "_": "[pdf.js] 手軽にPDFファイルをHTMLに埋め込めるWebComponentを作った",
+      "romaji": "[pdf.js] tegarunipdffairuwohtmlniumekomeruwebcomponentwotsukutsuta"
+    },
+    {
+      "_": "Seleniumを用いたTwitterへのログイン及び投稿",
+      "romaji": "seleniumwomochiitatwitterhenoroguinoyobitoukou"
+    },
+    {
+      "_": "高校でのAWS開発・運用日記~体育祭編",
+      "romaji": "koukoudenoawskaihatsu.unyounikki~taiikusaihen"
+    },
+    {
+      "_": "PHP8.3 クラス定数とENUMを文字列から探せるようになる",
+      "romaji": "php8.3 kurasuteisuutoenumwomojiretsukarasagaseruyouninaru"
+    },
+    {
+      "_": "TypeScriptで戻り値がvoid型の関数を扱う場合の注意点",
+      "romaji": "typescriptdemodorichigavoidkatanokansuuwoatsukaubaainochuuiten"
+    },
+    {
+      "_": "浅ぁいネットワク講座第4回",
+      "romaji": "senainettowakukouzadai4kai"
+    },
+    {
+      "_": "Power Apps のフォムコントロルで躓いてしまわないために",
+      "romaji": "power apps nofomukontororudechiiteshimawanaitameni"
+    },
+    {
+      "_": "ツル開発OpenAIのGPT-3によってデタの加工処理や可視処理のコドを自動生成する🛠コマンドを作成してみた",
+      "romaji": "tsurukaihatsuopenainogpt-3niyottedetanokakoushoriyakashishorinokodowojidouseiseisuru🛠komandowosakuseishitemita"
+    },
+    {
+      "_": "プリザンタでフィルタ条件/ソト条件付の一覧を表示するURLの作り方",
+      "romaji": "purizantadefirutajouken/sotojoukentsukinoichiranwohyoujisuruurlnotsukurikata"
+    },
+    {
+      "_": "IBM Cloud: Power Systems Virtual ServerPowerVSにおけるRHEL subscriptionの登録方法",
+      "romaji": "ibm cloud: power systems virtual serverpowervsniokerurhel subscriptionnotourokuhouhou"
+    },
+    {
+      "_": "全方位木DPに入門してABC220のF問題を解く",
+      "romaji": "zenhouikidpninyuumonshiteabc220nofmondaiwotoku"
+    },
+    {
+      "_": "3GPP調査研究・学習向けのリンク集",
+      "romaji": "3gppchousakenkyuu.gakushuumukenorinkushuu"
+    },
+    {
+      "_": "AWS S3のデタをVantageにロドする",
+      "romaji": "aws s3nodetawovantagenirodosuru"
+    },
+    {
+      "_": "AWS re:Invent 2022 ブス展示からわかるアナリティクス分野のトレンド",
+      "romaji": "aws re:invent 2022 busutenjikarawakaruanariteikusubunyanotorendo"
+    },
+    {
+      "_": "LLVMのstd:: uniform_real_distributionが遅い件",
+      "romaji": "llvmnostd:: uniform_real_distributiongaosoiken"
+    },
+    {
+      "_": "Microsoft Purview コンプライアンス ポタル で機密情報の種類を「正規表現」で作成する",
+      "romaji": "microsoft purview konpuraiansu potaru dekimitsujouhounoshuruiwo「seikihyougen」desakuseisuru"
+    },
+    {
+      "_": "アジャイル開発について",
+      "romaji": "ajairukaihatsunitsuite"
+    },
+    {
+      "_": "自分で作ったAI同士を会話させてみた",
+      "romaji": "jibundetsukutsutaaidoushiwokaiwasasetemita"
+    },
+    {
+      "_": "Three.jsで動画テクスチャの切り替える際に必要だったこと",
+      "romaji": "three.jsdedougatekusuchanokirikaerusainihitsuyoudattakoto"
+    },
+    {
+      "_": "新卒エンジニア就活専門学校生がメガベンチャの内定をもらった話",
+      "romaji": "shinsotsuenjiniashuukatsusenmongakkouseigamegabenchanonaiteiwomorattahanashi"
+    },
+    {
+      "_": "ブロックチェンを実装してみる入門編",
+      "romaji": "burokkuchenwojissoushitemirunyuumonhen"
+    },
+    {
+      "_": "AIが何についてのポエムを作ってるのか当てるゲム作った",
+      "romaji": "aigananinitsuitenopoemuwotsukutsuterunokaaterugemutsukutsuta"
+    },
+    {
+      "_": "「[cloud_firestore/permission-denied] The caller does not have permission to execute the specified operation.」エラの解決方法",
+      "romaji": "「[cloud_firestore/permission-denied] the caller does not have permission to execute the specified operation.」eranokaiketsuhouhou"
     }
   ]
 }
