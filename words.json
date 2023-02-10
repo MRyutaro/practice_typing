@@ -2048,6 +2048,126 @@
     {
       "_": "ChatGPTはとりあえず相談に乗ってくれる先輩月20ドルは安い?",
       "romaji": "chatgpthatoriaezusoudanninottekurerusenpaigatsu20doruhayasui?"
+    },
+    {
+      "_": "個人開発駆け出しエンジニアのポトフォリオ作りを手助けするサビスを作りました",
+      "romaji": "kojinkaihatsukakedashienjinianopotoforiotsukuriwotedasukesurusabisuwotsukurimashita"
+    },
+    {
+      "_": "C#async/awaitのキャンセル処理まとめ",
+      "romaji": "c#async/awaitnokyanserushorimatome"
+    },
+    {
+      "_": "プログラマのためのChatGPT活用 - コディング編 -",
+      "romaji": "puroguramanotamenochatgptkatsuyou - kodinguhen -"
+    },
+    {
+      "_": "普通の中学生が競プロに挑戦して挫折した話",
+      "romaji": "futsuunochuugakuseigakyoupuronichousenshitezasetsushitahanashi"
+    },
+    {
+      "_": "障害対応は寝て食べるが大事",
+      "romaji": "shougaitaiouhanetetaberugadaiji"
+    },
+    {
+      "_": "オラクルへのクラウド移行検討 第3回  〜クラウドHPCって最近どうなのよ?〜",
+      "romaji": "orakuruhenokuraudoikoukentou dai3kai  〜kuraudohpcttesaikindounanoyo?〜"
+    },
+    {
+      "_": "Google Colabで英語の論文を無料で翻訳する方法",
+      "romaji": "google colabdeeigonoronbunwomuryoudehonyakusuruhouhou"
+    },
+    {
+      "_": "グロバル企業が日本地図を作るとはどういうことなのか?",
+      "romaji": "gurobarukigyouganihonchizuwotsukurutohadouiukotonanoka?"
+    },
+    {
+      "_": "登記所備付地図デタを扱う上で知っておきたい土地の基礎知識",
+      "romaji": "toukishosonaetsukechizudetawoatsukauuedeshitteokitaitochinokisochishiki"
+    },
+    {
+      "_": "ChatGPTのビジネス利用検討",
+      "romaji": "chatgptnobijinesuriyoukentou"
+    },
+    {
+      "_": "GIGAスクル端末でどこまで開発環境が整えられるかchromebook編",
+      "romaji": "gigasukurutanmatsudedokomadekaihatsukankyougatotonoerarerukachromebookhen"
+    },
+    {
+      "_": "AWS初心者向け目的別クラウド構成から学習するAWSサビス1動的WEBサイト",
+      "romaji": "awsshoshinshamukemokutekibetsukuraudokouseikaragakushuusuruawssabisu1doutekiwebsaito"
+    },
+    {
+      "_": "JavaScriptスクロルが終わった時に発生する「新しいイベントScrollend」とは?",
+      "romaji": "javascriptsukurorugaowattatokinihasseisuru「atarashiiibentoscrollend」toha?"
+    },
+    {
+      "_": "Elixir 学習記  1. 環境構築 ",
+      "romaji": "elixir gakushuuki  1. kankyoukouchiku "
+    },
+    {
+      "_": "GASGASでPSIスコアの半自動計測をやってみた",
+      "romaji": "gasgasdepsisukoanohanjidoukeisokuwoyattemita"
+    },
+    {
+      "_": "Kotlin Coroutines Flow とは",
+      "romaji": "kotlin coroutines flow toha"
+    },
+    {
+      "_": "Qiita Advent Calendar 2022 Qiita賞個人部門完走賞受賞記念特別記事アドベントカレンダはハラショだ!記事の投稿とは己のあやふやな理解に打ち克つことそして投稿を通じて己の技術を磨いていくこと",
+      "romaji": "qiita advent calendar 2022 qiitashoukojinbumonkansoushoujushoukinentokubetsukijiadobentokarendahaharashoda!kijinotoukoutohaonorenoayafuyanarikainiuchikatsutsukotososhitetoukouwotsuujiteonorenogijutsuwomigaiteikukoto"
+    },
+    {
+      "_": "続:5秒で告白",
+      "romaji": "zoku:5byoudekokuhaku"
+    },
+    {
+      "_": "日々の業務をプチハック - Chrome Extension拡張機能を作ろう!",
+      "romaji": "hibinogyoumuwopuchihakku - chrome extensionkakuchoukinouwotsukurou!"
+    },
+    {
+      "_": "BERTで自殺ツイトを検出する試み~3ナイブベイズでの判別~",
+      "romaji": "bertdejisatsutsuitowokenshutsusurukokoromi~3naibubeizudenohanbetsu~"
+    },
+    {
+      "_": "Elasticsearch分散処理の性能検証4: レプリカ数による性能比較",
+      "romaji": "elasticsearchbunsanshorinoseinoukenshou4: repurikakazuniyoruseinouhikaku"
+    },
+    {
+      "_": "BERTで自殺ツイトを検出する試み~2EDAとルルベスでの検出~",
+      "romaji": "bertdejisatsutsuitowokenshutsusurukokoromi~2edatorurubesudenokenshutsu~"
+    },
+    {
+      "_": "detailsタグでなんでもアコディオンにしていいのか考える",
+      "romaji": "detailstagudenandemoakodionnishiteiinokakangaeru"
+    },
+    {
+      "_": "AzureBicepを用いてAzureVMをお手軽に死活監視する",
+      "romaji": "azurebicepwomochiiteazurevmwootegarunishikatsukanshisuru"
+    },
+    {
+      "_": "Atcoder!水色になったぞ!",
+      "romaji": "atcoder!mizuironinattazo!"
+    },
+    {
+      "_": "Power Apps で日程調整を効率化しよう",
+      "romaji": "power apps denitteichouseiwokouritsukashiyou"
+    },
+    {
+      "_": "VantageのデタをAWS SageMakerでの機械学習に使用してみた",
+      "romaji": "vantagenodetawoaws sagemakerdenokikaigakushuunishiyoushitemita"
+    },
+    {
+      "_": "Excelでクリップボドにコピした情報はImageに変換できる",
+      "romaji": "exceldekurippubodonikopishitajouhouhaimagenihenkandekiru"
+    },
+    {
+      "_": "UnityC#流行りのメタバスでよく見るアバタ着せ替えシステムを作ってみる",
+      "romaji": "unityc#hayarinometabasudeyokumiruabatakisekaeshisutemuwotsukutsutemiru"
+    },
+    {
+      "_": "MATLABでお手軽!? VRFTによるPID制御器のオトチュニングデタ駆動型制御器チュニング",
+      "romaji": "matlabdeotegaru!? vrftniyorupidseigyokinootochuningudetakudougataseigyokichuningu"
     }
   ]
 }
