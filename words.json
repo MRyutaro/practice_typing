@@ -2168,6 +2168,126 @@
     {
       "_": "MATLABでお手軽!? VRFTによるPID制御器のオトチュニングデタ駆動型制御器チュニング",
       "romaji": "matlabdeotegaru!? vrftniyorupidseigyokinootochuningudetakudougataseigyokichuningu"
+    },
+    {
+      "_": "個人開発駆け出しエンジニアのポトフォリオ作りを手助けするサビスを作りました",
+      "romaji": "kojinkaihatsukakedashienjinianopotoforiotsukuriwotedasukesurusabisuwotsukurimashita"
+    },
+    {
+      "_": "Google Colabで英語の論文を無料で翻訳する方法",
+      "romaji": "google colabdeeigonoronbunwomuryoudehonyakusuruhouhou"
+    },
+    {
+      "_": "プログラマのためのChatGPT活用 - コディング編 -",
+      "romaji": "puroguramanotamenochatgptkatsuyou - kodinguhen -"
+    },
+    {
+      "_": "C#async/awaitのキャンセル処理まとめ",
+      "romaji": "c#async/awaitnokyanserushorimatome"
+    },
+    {
+      "_": "ChatGPTのビジネス利用検討",
+      "romaji": "chatgptnobijinesuriyoukentou"
+    },
+    {
+      "_": "普通の中学生が競プロに挑戦して挫折した話",
+      "romaji": "futsuunochuugakuseigakyoupuronichousenshitezasetsushitahanashi"
+    },
+    {
+      "_": "障害対応は寝て食べるが大事",
+      "romaji": "shougaitaiouhanetetaberugadaiji"
+    },
+    {
+      "_": "Kotlin Coroutines Flow とは",
+      "romaji": "kotlin coroutines flow toha"
+    },
+    {
+      "_": "JavaScriptスクロルが終わった時に発生する「新しいイベントScrollend」とは?",
+      "romaji": "javascriptsukurorugaowattatokinihasseisuru「atarashiiibentoscrollend」toha?"
+    },
+    {
+      "_": "Elixir 学習記  1. 環境構築 ",
+      "romaji": "elixir gakushuuki  1. kankyoukouchiku "
+    },
+    {
+      "_": "GIGAスクル端末でどこまで開発環境が整えられるかchromebook編",
+      "romaji": "gigasukurutanmatsudedokomadekaihatsukankyougatotonoerarerukachromebookhen"
+    },
+    {
+      "_": "Linuxの新しいsandbox機構「Landlock」",
+      "romaji": "linuxnoatarashiisandboxkikou「landlock」"
+    },
+    {
+      "_": "オラクルへのクラウド移行検討 第3回  〜クラウドHPCって最近どうなのよ?〜",
+      "romaji": "orakuruhenokuraudoikoukentou dai3kai  〜kuraudohpcttesaikindounanoyo?〜"
+    },
+    {
+      "_": "Excelでクリップボドにコピした情報はImageに変換できる",
+      "romaji": "exceldekurippubodonikopishitajouhouhaimagenihenkandekiru"
+    },
+    {
+      "_": "日々の業務をプチハック - Chrome Extension拡張機能を作ろう!",
+      "romaji": "hibinogyoumuwopuchihakku - chrome extensionkakuchoukinouwotsukurou!"
+    },
+    {
+      "_": "AWS初心者向け目的別クラウド構成から学習するAWSサビス1動的WEBサイト",
+      "romaji": "awsshoshinshamukemokutekibetsukuraudokouseikaragakushuusuruawssabisu1doutekiwebsaito"
+    },
+    {
+      "_": "AZ-400:Azure Artifacts フィドへの npm パッケジ公開",
+      "romaji": "az-400:azure artifacts fidoheno npm pakkejikoukai"
+    },
+    {
+      "_": "UniTask 処理のタイムアウトの書き方 まとめ",
+      "romaji": "unitask shorinotaimuautonokakikata matome"
+    },
+    {
+      "_": "続:5秒で告白",
+      "romaji": "zoku:5byoudekokuhaku"
+    },
+    {
+      "_": "AtCoder中卒の主婦が青コダになったおはなし競技プログラミング",
+      "romaji": "atcoderchuusotsunoshufugaaokodaninattaohanashikyougipuroguramingu"
+    },
+    {
+      "_": "AzureBicepを用いてAzureVMをお手軽に死活監視する",
+      "romaji": "azurebicepwomochiiteazurevmwootegarunishikatsukanshisuru"
+    },
+    {
+      "_": "MATLABでお手軽!? VRFTによるPID制御器のオトチュニングデタ駆動型制御器チュニング",
+      "romaji": "matlabdeotegaru!? vrftniyorupidseigyokinootochuningudetakudougataseigyokichuningu"
+    },
+    {
+      "_": "初心者必見AWS Fargate の使用方法徹底解説",
+      "romaji": "shoshinshahikkenaws fargate noshiyouhouhoutetteikaisetsu"
+    },
+    {
+      "_": "Db2:ロックウェイトが発生したら通知したい",
+      "romaji": "db2:rokkuueitogahasseishitaratsuuchishitai"
+    },
+    {
+      "_": "Atcoder!水色になったぞ!",
+      "romaji": "atcoder!mizuironinattazo!"
+    },
+    {
+      "_": "いまさらながら色々な y=x^n のグラフを描いてみた",
+      "romaji": "imasaranagarairoirona y=x^n nogurafuwoegaitemita"
+    },
+    {
+      "_": "AiScriptで困ったときに見るメモ",
+      "romaji": "aiscriptdekomatsutatokinimirumemo"
+    },
+    {
+      "_": "AWS SAMのロカル開発でホットリロドを効かせる",
+      "romaji": "aws samnorokarukaihatsudehottorirodowokikaseru"
+    },
+    {
+      "_": "Udemyの番人がおすすめする講座",
+      "romaji": "udemynobanningaosusumesurukouza"
+    },
+    {
+      "_": "TypeScriptanyとunknownの違い",
+      "romaji": "typescriptanytounknownnochigai"
     }
   ]
 }
