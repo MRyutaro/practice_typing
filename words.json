@@ -2528,6 +2528,126 @@
     {
       "_": "Qiita Tweetありがとう",
       "romaji": "qiita tweetarigatou"
+    },
+    {
+      "_": "AtCoder中卒の主婦が青コダになったおはなし競技プログラミング",
+      "romaji": "atcoderchuusotsunoshufugaaokodaninattaohanashikyougipuroguramingu"
+    },
+    {
+      "_": "Python初学者のためのPolars100本ノック",
+      "romaji": "pythonshogakushanotamenopolars100honnokku"
+    },
+    {
+      "_": "Udemyの番人がおすすめする講座",
+      "romaji": "udemynobanningaosusumesurukouza"
+    },
+    {
+      "_": "2022年の深層学習ハイライト",
+      "romaji": "2022nennoshinsougakushuuhairaito"
+    },
+    {
+      "_": "個人開発駆け出しエンジニアのポトフォリオ作りを手助けするサビスを作りました",
+      "romaji": "kojinkaihatsukakedashienjinianopotoforiotsukuriwotedasukesurusabisuwotsukurimashita"
+    },
+    {
+      "_": "Google Colabで英語の論文を無料で翻訳する方法",
+      "romaji": "google colabdeeigonoronbunwomuryoudehonyakusuruhouhou"
+    },
+    {
+      "_": "Linuxの新しいsandbox機構「Landlock」",
+      "romaji": "linuxnoatarashiisandboxkikou「landlock」"
+    },
+    {
+      "_": "初心者必見AWS Fargate の使用方法徹底解説",
+      "romaji": "shoshinshahikkenaws fargate noshiyouhouhoutetteikaisetsu"
+    },
+    {
+      "_": "OpenAIのGPT-3.5系APIを使って論文を自動で要約する",
+      "romaji": "openainogpt-3.5keiapiwotsukatteronbunwojidoudeyouyakusuru"
+    },
+    {
+      "_": "Qiita Tweetありがとう",
+      "romaji": "qiita tweetarigatou"
+    },
+    {
+      "_": "長年break文を使い続けたプログラマがbreak文の無いElixirを学んで遅延評価にたどり着いた話",
+      "romaji": "naganenbreakbunwotsukaitsuzuketapuroguramagabreakbunnonaielixirwomanandechienhyoukanitadoritsuitahanashi"
+    },
+    {
+      "_": "『リダブルコド』を実践的に活用するための問題集[Javascript]第1節 表面上の改善",
+      "romaji": "『ridaburukodo』wojissentekinikatsuyousurutamenomondaishuu[javascript]dai1fushi hyoumenjounokaizen"
+    },
+    {
+      "_": "AzureとColabを使って英語のプレゼンを翻訳する方法",
+      "romaji": "azuretocolabwotsukatteeigonopurezenwohonyakusuruhouhou"
+    },
+    {
+      "_": "話題のSupabaseでサクッとGoogle認証機能をつくってみた!",
+      "romaji": "wadainosupabasedesakutsutogoogleninshoukinouwotsukuttemita!"
+    },
+    {
+      "_": "null + null = 0 になるんだけど in JavaScript",
+      "romaji": "null + null = 0 ninarundakedo in javascript"
+    },
+    {
+      "_": "RailsDeviseをカスタマイズして使いたい!! 導入〜モデル編",
+      "romaji": "railsdevisewokasutamaizushitetsukaitai!! dounyuu〜moderuhen"
+    },
+    {
+      "_": "ブラウザゲムを作ってみようその13:サンプルゲム作成その6",
+      "romaji": "burauzagemuwotsukutsutemiyousono13:sanpurugemusakuseisono6"
+    },
+    {
+      "_": "闘魂Elixir ── ANSIエスケプコドをElixirの出力で使うコンソルの出力を上書きする",
+      "romaji": "toukonelixir ── ansiesukepukodowoelixirnoshutsuryokudetsukaukonsorunoshutsuryokuwouwakakisuru"
+    },
+    {
+      "_": "新卒IT就活体験記",
+      "romaji": "shinsotsuitshuukatsutaikenki"
+    },
+    {
+      "_": "Kotlin Coroutines Flow とは",
+      "romaji": "kotlin coroutines flow toha"
+    },
+    {
+      "_": "ReactをGitHub Pagesにデプロイしよう〜Vite編〜",
+      "romaji": "reactwogithub pagesnidepuroishiyou〜vitehen〜"
+    },
+    {
+      "_": "オンラインPRG「REDSTONE」赤石をウェブ移植してみた",
+      "romaji": "onrainprg「redstone」akaishiwouebuishokushitemita"
+    },
+    {
+      "_": "ITエンジニア本大賞『小さなチム大きな仕事 働き方の新スタンダド』を読んで",
+      "romaji": "itenjiniahontaishou『chiisanachimuookinashigoto hatarakihounoshinsutandado』woyonde"
+    },
+    {
+      "_": "オンプレでやってきた設計の考え方はAWSでも活かせる",
+      "romaji": "onpuredeyattekitasekkeinokangaekatahaawsdemoikaseru"
+    },
+    {
+      "_": "未経験エンジニアに一番必要なスキルは...",
+      "romaji": "mikeikenenjinianiichibanhitsuyounasukiruha..."
+    },
+    {
+      "_": "Excelでクリップボドにコピした情報はImageに変換できる",
+      "romaji": "exceldekurippubodonikopishitajouhouhaimagenihenkandekiru"
+    },
+    {
+      "_": "Railsたくさんあるprimary_keyとforeign_keyの設定についてそれぞれの役割を理解する",
+      "romaji": "railstakusan'aruprimary_keytoforeign_keynosetteinitsuitesorezorenoyakuwariworikaisuru"
+    },
+    {
+      "_": "Thymeleafで動的なonclickを書きたい",
+      "romaji": "thymeleafdedoutekinaonclickwokakitai"
+    },
+    {
+      "_": "JavaScriptスクロルが終わった時に発生する「新しいイベントScrollend」とは?",
+      "romaji": "javascriptsukurorugaowattatokinihasseisuru「atarashiiibentoscrollend」toha?"
+    },
+    {
+      "_": "サブスクあるあるうっかり更新防止PMI®本部会員の自動更新停止方法",
+      "romaji": "sabusukuaruaruukkarikoushinboushipmi®honbukaiinnojidoukoushinteishihouhou"
     }
   ]
 }
