@@ -2768,6 +2768,126 @@
     {
       "_": "ブラウザゲムを作ってみようその13:サンプルゲム作成その6",
       "romaji": "burauzagemuwotsukutsutemiyousono13:sanpurugemusakuseisono6"
+    },
+    {
+      "_": "Python初学者のためのPolars100本ノック",
+      "romaji": "pythonshogakushanotamenopolars100honnokku"
+    },
+    {
+      "_": "AtCoder中卒の主婦が青コダになったおはなし競技プログラミング",
+      "romaji": "atcoderchuusotsunoshufugaaokodaninattaohanashikyougipuroguramingu"
+    },
+    {
+      "_": "人工衛星の軌道をPythonでアニメションにしてみよう",
+      "romaji": "jinkoueiseinokidouwopythondeanimeshonnishitemiyou"
+    },
+    {
+      "_": "3大クラウドAWS,Azure,GCPをプロダクションで実運用した感想その2 Azure固有の優位性について",
+      "romaji": "3daikuraudoaws,azure,gcpwopurodakushondejitsuunyoushitakansousono2 azurekoyuunoyuuiseinitsuite"
+    },
+    {
+      "_": "2022年の深層学習ハイライト",
+      "romaji": "2022nennoshinsougakushuuhairaito"
+    },
+    {
+      "_": "OpenAIのGPT-3.5系APIを使って論文を自動で要約する",
+      "romaji": "openainogpt-3.5keiapiwotsukatteronbunwojidoudeyouyakusuru"
+    },
+    {
+      "_": "Linuxの新しいsandbox機構「Landlock」",
+      "romaji": "linuxnoatarashiisandboxkikou「landlock」"
+    },
+    {
+      "_": "コンバジョン率の最適化のために重要な指標タイム・トゥ・バリュを紹介します",
+      "romaji": "konbajonritsunosaitekikanotamenijuuyounashihyoutaimu.tou.baryuwoshoukaishimasu"
+    },
+    {
+      "_": "新卒IT就活体験記",
+      "romaji": "shinsotsuitshuukatsutaikenki"
+    },
+    {
+      "_": "ChatGPT Plusを使ってみて分かった5つのポイント",
+      "romaji": "chatgpt pluswotsukattemitewakatta5tsunopointo"
+    },
+    {
+      "_": "長年break文を使い続けたプログラマがbreak文の無いElixirを学んで遅延評価にたどり着いた話",
+      "romaji": "naganenbreakbunwotsukaitsuzuketapuroguramagabreakbunnonaielixirwomanandechienhyoukanitadoritsuitahanashi"
+    },
+    {
+      "_": "『リダブルコド』を実践的に活用するための問題集[Javascript]第1節 表面上の改善",
+      "romaji": "『ridaburukodo』wojissentekinikatsuyousurutamenomondaishuu[javascript]dai1fushi hyoumenjounokaizen"
+    },
+    {
+      "_": "個人開発AIでVTuberを作るのに必要な知識は機械学習の知識ではない",
+      "romaji": "kojinkaihatsuaidevtuberwotsukurunonihitsuyounachishikihakikaigakushuunochishikidehanai"
+    },
+    {
+      "_": "null + null = 0 になるんだけど in JavaScript",
+      "romaji": "null + null = 0 ninarundakedo in javascript"
+    },
+    {
+      "_": "完全体となったContainer Queriesの所感の雑記",
+      "romaji": "kanzenkaradatonattacontainer queriesnoshokannozakki"
+    },
+    {
+      "_": "Go言語で最速のJSONデコダを作った話",
+      "romaji": "gogengodesaisokunojsondekodawotsukutsutahanashi"
+    },
+    {
+      "_": "Power Apps で働き方を共有しよう",
+      "romaji": "power apps dehatarakihouwokyouyuushiyou"
+    },
+    {
+      "_": "従来の関数宣言functionとアロ関数=>{}どちらを使うべきか?",
+      "romaji": "juurainokansuusengenfunctiontoarokansuu=>{}dochirawotsukaubekika?"
+    },
+    {
+      "_": "Amazon EC2使用後の後始末",
+      "romaji": "amazon ec2shiyougonoatoshimatsu"
+    },
+    {
+      "_": "話題のSupabaseでサクッとGoogle認証機能をつくってみた!",
+      "romaji": "wadainosupabasedesakutsutogoogleninshoukinouwotsukuttemita!"
+    },
+    {
+      "_": "ITエンジニア本大賞『小さなチム大きな仕事 働き方の新スタンダド』を読んで",
+      "romaji": "itenjiniahontaishou『chiisanachimuookinashigoto hatarakihounoshinsutandado』woyonde"
+    },
+    {
+      "_": "[主にRPAユザ向け] サビスとユザモドの違い",
+      "romaji": "[omonirpayuzamuke] sabisutoyuzamodonochigai"
+    },
+    {
+      "_": "Qiita Tweetありがとう自己新",
+      "romaji": "qiita tweetarigatoujikoshin"
+    },
+    {
+      "_": "オンラインPRG「REDSTONE」赤石をウェブ移植してみた",
+      "romaji": "onrainprg「redstone」akaishiwouebuishokushitemita"
+    },
+    {
+      "_": "Azure Devopsで特定のブランチ例:mainに対するマジを特定のブランチ例:devからのみに限定する",
+      "romaji": "azure devopsdetokuteinoburanchirei:mainnitaisurumajiwotokuteinoburanchirei:devkaranominigenteisuru"
+    },
+    {
+      "_": "絵本生成AIをChatGPTとDALL·E 2で作る",
+      "romaji": "ehonseiseiaiwochatgpttodall·e 2detsukuru"
+    },
+    {
+      "_": "航空機の飛行制御 ~着陸を制御する~",
+      "romaji": "koukuukinohikouseigyo ~chakurikuwoseigyosuru~"
+    },
+    {
+      "_": "ITエンジニア本大賞『最強の働き方』から学ぶメモのとり方",
+      "romaji": "itenjiniahontaishou『saikyounohatarakihou』karamanabumemonotorihou"
+    },
+    {
+      "_": "AWS Lambdaを使ってメル整形してみた",
+      "romaji": "aws lambdawotsukattemeruseikeishitemita"
+    },
+    {
+      "_": "AZ-400:Azure Pipelines を使った npm パッケジの公開",
+      "romaji": "az-400:azure pipelines wotsukatta npm pakkejinokoukai"
     }
   ]
 }
