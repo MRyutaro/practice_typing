@@ -2648,6 +2648,126 @@
     {
       "_": "サブスクあるあるうっかり更新防止PMI®本部会員の自動更新停止方法",
       "romaji": "sabusukuaruaruukkarikoushinboushipmi®honbukaiinnojidoukoushinteishihouhou"
+    },
+    {
+      "_": "Python初学者のためのPolars100本ノック",
+      "romaji": "pythonshogakushanotamenopolars100honnokku"
+    },
+    {
+      "_": "AtCoder中卒の主婦が青コダになったおはなし競技プログラミング",
+      "romaji": "atcoderchuusotsunoshufugaaokodaninattaohanashikyougipuroguramingu"
+    },
+    {
+      "_": "2022年の深層学習ハイライト",
+      "romaji": "2022nennoshinsougakushuuhairaito"
+    },
+    {
+      "_": "OpenAIのGPT-3.5系APIを使って論文を自動で要約する",
+      "romaji": "openainogpt-3.5keiapiwotsukatteronbunwojidoudeyouyakusuru"
+    },
+    {
+      "_": "Linuxの新しいsandbox機構「Landlock」",
+      "romaji": "linuxnoatarashiisandboxkikou「landlock」"
+    },
+    {
+      "_": "Google Colabで英語の論文を無料で翻訳する方法",
+      "romaji": "google colabdeeigonoronbunwomuryoudehonyakusuruhouhou"
+    },
+    {
+      "_": "人工衛星の軌道をPythonでアニメションにしてみよう",
+      "romaji": "jinkoueiseinokidouwopythondeanimeshonnishitemiyou"
+    },
+    {
+      "_": "『リダブルコド』を実践的に活用するための問題集[Javascript]第1節 表面上の改善",
+      "romaji": "『ridaburukodo』wojissentekinikatsuyousurutamenomondaishuu[javascript]dai1fushi hyoumenjounokaizen"
+    },
+    {
+      "_": "長年break文を使い続けたプログラマがbreak文の無いElixirを学んで遅延評価にたどり着いた話",
+      "romaji": "naganenbreakbunwotsukaitsuzuketapuroguramagabreakbunnonaielixirwomanandechienhyoukanitadoritsuitahanashi"
+    },
+    {
+      "_": "話題のSupabaseでサクッとGoogle認証機能をつくってみた!",
+      "romaji": "wadainosupabasedesakutsutogoogleninshoukinouwotsukuttemita!"
+    },
+    {
+      "_": "新卒IT就活体験記",
+      "romaji": "shinsotsuitshuukatsutaikenki"
+    },
+    {
+      "_": "オンラインPRG「REDSTONE」赤石をウェブ移植してみた",
+      "romaji": "onrainprg「redstone」akaishiwouebuishokushitemita"
+    },
+    {
+      "_": "Qiita Tweetありがとう",
+      "romaji": "qiita tweetarigatou"
+    },
+    {
+      "_": "null + null = 0 になるんだけど in JavaScript",
+      "romaji": "null + null = 0 ninarundakedo in javascript"
+    },
+    {
+      "_": "ChatGPT Plusを使ってみて分かった5つのポイント",
+      "romaji": "chatgpt pluswotsukattemitewakatta5tsunopointo"
+    },
+    {
+      "_": "ITエンジニア本大賞『小さなチム大きな仕事 働き方の新スタンダド』を読んで",
+      "romaji": "itenjiniahontaishou『chiisanachimuookinashigoto hatarakihounoshinsutandado』woyonde"
+    },
+    {
+      "_": "ReactをGitHub Pagesにデプロイしよう〜Vite編〜",
+      "romaji": "reactwogithub pagesnidepuroishiyou〜vitehen〜"
+    },
+    {
+      "_": "AzureとColabを使って英語のプレゼンを翻訳する方法",
+      "romaji": "azuretocolabwotsukatteeigonopurezenwohonyakusuruhouhou"
+    },
+    {
+      "_": "ITエンジニア本大賞『最強の働き方』から学ぶメモのとり方",
+      "romaji": "itenjiniahontaishou『saikyounohatarakihou』karamanabumemonotorihou"
+    },
+    {
+      "_": "Amazon EC2使用後の後始末",
+      "romaji": "amazon ec2shiyougonoatoshimatsu"
+    },
+    {
+      "_": "完全体となったContainer Queriesの所感の雑記",
+      "romaji": "kanzenkaradatonattacontainer queriesnoshokannozakki"
+    },
+    {
+      "_": "Thymeleafで動的なonclickを書きたい",
+      "romaji": "thymeleafdedoutekinaonclickwokakitai"
+    },
+    {
+      "_": "Power Apps で働き方を共有しよう",
+      "romaji": "power apps dehatarakihouwokyouyuushiyou"
+    },
+    {
+      "_": "チャットAI話題の「ChatGPT」を試してみた",
+      "romaji": "chattoaiwadaino「chatgpt」wotameshitemita"
+    },
+    {
+      "_": "3大クラウドAWS,Azure,GCPをプロダクションで実運用した感想その2 Azure固有の優位性について",
+      "romaji": "3daikuraudoaws,azure,gcpwopurodakushondejitsuunyoushitakansousono2 azurekoyuunoyuuiseinitsuite"
+    },
+    {
+      "_": "AZ-400:Azure Pipelines を使った npm パッケジの公開",
+      "romaji": "az-400:azure pipelines wotsukatta npm pakkejinokoukai"
+    },
+    {
+      "_": "Unity/C#のための「多分最速」のスクリプト言語作った",
+      "romaji": "unity/c#notameno「tabunsaisoku」nosukuriputogengotsukutsuta"
+    },
+    {
+      "_": "[主にRPAユザ向け] サビスとユザモドの違い",
+      "romaji": "[omonirpayuzamuke] sabisutoyuzamodonochigai"
+    },
+    {
+      "_": "evision で画像から顔を検出する",
+      "romaji": "evision degazoukarakaowokenshutsusuru"
+    },
+    {
+      "_": "ブラウザゲムを作ってみようその13:サンプルゲム作成その6",
+      "romaji": "burauzagemuwotsukutsutemiyousono13:sanpurugemusakuseisono6"
     }
   ]
 }
